@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map">MapActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button_text">Siguente</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_1">siguiente</string>
+    <string name="text_2">aceptar</string>
+    <string name="text_3">Latitud</string>
+    <string name="text_4">Longitud</string>
+    <string name="text_5">Esta vacio este campo</string>
+    <string name="text_6">la cantidad debeser de 10 digitos</string>
+    <string name="text_7">Longitud</string>
+    <string name="text_8">Longitud</string>
+
+    <string name="clic_button">Tiempo</string>
+</resources>
